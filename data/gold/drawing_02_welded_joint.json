@@ -1,0 +1,32 @@
+{
+  "review_status": "seed_manual_review_required",
+  "expected_texts": [
+    {"text": "ИГ 03.1501.12.000 СБ", "occurrences": 2},
+    {"text": "ГОСТ 5264-80", "occurrences": 2},
+    {"text": "Электроды Э42 ГОСТ 9467-75", "occurrences": 1},
+    {"text": "Размеры для справок", "occurrences": 1},
+    {"text": "Сварное соединение", "occurrences": 1},
+    {"text": "Лит.", "occurrences": 2},
+    {"text": "Масса", "occurrences": 1},
+    {"text": "Масштаб", "occurrences": 1},
+    {"text": "Лист", "occurrences": 2},
+    {"text": "Листов", "occurrences": 1},
+    {"text": "гр. ТМ-71", "occurrences": 1},
+    {"text": "Изм.", "occurrences": 1},
+    {"text": "№ докум.", "occurrences": 1},
+    {"text": "Подп.", "occurrences": 1},
+    {"text": "Дата", "occurrences": 1},
+    {"text": "Разраб.", "occurrences": 1},
+    {"text": "Пров.", "occurrences": 1},
+    {"text": "Т.контр.", "occurrences": 1},
+    {"text": "Н.контр.", "occurrences": 1},
+    {"text": "Утв.", "occurrences": 1},
+    {"text": "Копировал", "occurrences": 1},
+    {"text": "Перв. примен.", "occurrences": 1},
+    {"text": "Справ. №", "occurrences": 1},
+    {"text": "Подп. и дата", "occurrences": 2},
+    {"text": "Инв. № дубл.", "occurrences": 1},
+    {"text": "Взам. инв. №", "occurrences": 1},
+    {"text": "Инв. № подл.", "occurrences": 1}
+  ]
+}

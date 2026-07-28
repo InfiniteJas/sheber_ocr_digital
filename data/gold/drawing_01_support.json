@@ -1,0 +1,173 @@
+{
+  "review_status": "manually_reviewed_v2",
+  "expected_texts": [
+    {
+      "text": "ИГ 02.2407.11.000 СБ",
+      "occurrences": 2
+    },
+    {
+      "text": "ИГ 02.2407.11.001",
+      "occurrences": 1
+    },
+    {
+      "text": "ИГ 02.2407.11.002",
+      "occurrences": 1
+    },
+    {
+      "text": "ИГ 02.2407.11.003",
+      "occurrences": 1
+    },
+    {
+      "text": "ХТ-81",
+      "occurrences": 1
+    },
+    {
+      "text": "ГОСТ 5264-80 Т1",
+      "occurrences": 1
+    },
+    {
+      "text": "ГОСТ 5264-80 Т10",
+      "occurrences": 1
+    },
+    {
+      "text": "Электроды Э42 ГОСТ 9467-75",
+      "occurrences": 1
+    },
+    {
+      "text": "Размеры для справок",
+      "occurrences": 1
+    },
+    {
+      "text": "Формат",
+      "occurrences": 2
+    },
+    {
+      "text": "Зона",
+      "occurrences": 1
+    },
+    {
+      "text": "Поз.",
+      "occurrences": 1
+    },
+    {
+      "text": "Обозначение",
+      "occurrences": 1
+    },
+    {
+      "text": "Наименование",
+      "occurrences": 1
+    },
+    {
+      "text": "Кол.",
+      "occurrences": 1
+    },
+    {
+      "text": "Примечание",
+      "occurrences": 1
+    },
+    {
+      "text": "Детали",
+      "occurrences": 1
+    },
+    {
+      "text": "Плита",
+      "occurrences": 1
+    },
+    {
+      "text": "Цилиндр",
+      "occurrences": 1
+    },
+    {
+      "text": "Ушко",
+      "occurrences": 1
+    },
+    {
+      "text": "Опора",
+      "occurrences": 1
+    },
+    {
+      "text": "Лит.",
+      "occurrences": 1
+    },
+    {
+      "text": "Масса",
+      "occurrences": 1
+    },
+    {
+      "text": "Масштаб",
+      "occurrences": 1
+    },
+    {
+      "text": "Лист",
+      "occurrences": 2
+    },
+    {
+      "text": "Листов",
+      "occurrences": 1
+    },
+    {
+      "text": "Изм.",
+      "occurrences": 1
+    },
+    {
+      "text": "№ докум.",
+      "occurrences": 1
+    },
+    {
+      "text": "Подп.",
+      "occurrences": 1
+    },
+    {
+      "text": "Дата",
+      "occurrences": 1
+    },
+    {
+      "text": "Разраб.",
+      "occurrences": 1
+    },
+    {
+      "text": "Пров.",
+      "occurrences": 1
+    },
+    {
+      "text": "Т.контр.",
+      "occurrences": 1
+    },
+    {
+      "text": "Н.контр.",
+      "occurrences": 1
+    },
+    {
+      "text": "Утв.",
+      "occurrences": 1
+    },
+    {
+      "text": "Копировал",
+      "occurrences": 1
+    },
+    {
+      "text": "Перв. примен.",
+      "occurrences": 1
+    },
+    {
+      "text": "Справ. №",
+      "occurrences": 1
+    },
+    {
+      "text": "Подп. и дата",
+      "occurrences": 2
+    },
+    {
+      "text": "Инв. № дубл.",
+      "occurrences": 1
+    },
+    {
+      "text": "Взам. инв. №",
+      "occurrences": 1
+    },
+    {
+      "text": "Инв. № подл.",
+      "occurrences": 1
+    }
+  ]
+}
